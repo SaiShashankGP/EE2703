@@ -1,0 +1,4 @@
+# This is a test comment
+ .circuit # This is anotheer test comment
+ V1 n1 n2 10
+ .end

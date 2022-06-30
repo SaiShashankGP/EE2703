@@ -1,0 +1,7 @@
+# Circuit no 1
+# Date: 19-01-2022
+.circuit
+R... n1 n2 value # Resistor
+E... n1 n2 n3 n4 value # VCVS
+.end
+# The End

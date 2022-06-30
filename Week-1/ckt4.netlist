@@ -1,0 +1,5 @@
+.circuit
+V1 1 2 2
+.circuit
+R1 1 2 3
+.end
